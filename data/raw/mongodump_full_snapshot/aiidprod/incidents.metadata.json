@@ -1,0 +1,1 @@
+{"options":{"changeStreamPreAndPostImages":{"enabled":true}},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"incident_id":{"$numberInt":"-1"}},"name":"incident_id_idx"}],"uuid":"bd3da09445014da18fb6de9a9200a550","collectionName":"incidents","type":"collection"}
