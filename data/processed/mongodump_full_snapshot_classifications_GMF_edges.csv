@@ -1,0 +1,327 @@
+Known AI Goal,Known AI Technology,weight
+"Content Recommendation, Content Search, Hate Speech Detection, NSFW Content Detection","Content-based Filtering, Collaborative Filtering",1
+Hate Speech Detection,Character NGrams,1
+Autonomous Driving,,1
+AI Voice Assistant,"Automatic Speech Recognition, Language Modeling, Acoustic Fingerprint",1
+Face Recognition,,1
+Deepfake Video Generation,"Neural Network, Face Detection, Recurrent Neural Network, Generative Adversarial Network",1
+"Substance Detection, Smart Devices",Gesture Recognition,1
+Chatbot,"Autoencoder, Distributional Learning",1
+Automatic Skill Assessment,"Geolocation Data, Face Detection",1
+"Gunshot Detection, Audio Localization",Acoustic Triangulation,1
+"Robotic Manipulation, Activity Tracking, Automatic Skill Assessment",,1
+Financial Processing,,1
+Hate Speech Detection,"Classification, Distributional Learning",1
+"Market Forecasting, Scheduling",,1
+Image Tagging,"Face Detection, Convolutional Neural Network, Keyword Filtering",1
+Question Answering,"Language Modeling, Distributional Learning",1
+Threat Detection,,1
+Automatic Stock Trading,,1
+Autonomous Drones,,1
+Translation,"Convolutional Neural Network, Recurrent Neural Network, Distributional Learning",1
+Face Recognition,Face Detection,1
+Image Cropping,Neural Network,1
+Automated Content Curation,,1
+Copyrighted Content Detection,,1
+Question Answering,"Distributional Learning, Language Modeling",1
+Market Forecasting,"Regression, Multimodal Learning, Diverse Data",1
+Autonomous Driving,Geolocation Data,1
+Behavioral Modeling,Neural Network,1
+License Plate Recognition,"Visual Object Detection, Optical Character Recognition",1
+Visual Art Generation,"Transformer, Distributional Learning",1
+Automatic Skill Assessment,Automatic Speech Recognition,1
+Autonomous Driving,Image Segmentation,1
+Code Generation,"Transformer, Language Modeling",1
+Robotic Manipulation,,1
+Autonomous Drones,,1
+Visual Art Generation,"Transformer, Generative Adversarial Network",1
+Question Answering,"Transformer, Language Modeling, Distributional Learning",1
+Recidivism Prediction,,1
+Autonomous Driving,,1
+Data Grouping,,1
+Social Media Content Generation,"Transformer, Distributional Learning",1
+Chatbot,"Transformer, Distributional Learning, Reinforcement Learning",1
+Chatbot,Transformer,1
+Visual Art Generation,Diffusion Model,1
+Chatbot,,1
+Deepfake Video Generation,Speech Synthesis,1
+Translation,,1
+Chatbot,Transformer,1
+Cashierless Shopping,"Visual Object Detection, Pose Estimation",1
+Visual Art Generation,Diffusion Model,1
+Chatbot,Transformer,1
+Deepfake Image Generation,,1
+Chatbot,,1
+Deepfake Image Generation,,1
+Voice Generation,,1
+Text Style Replication,Transformer,1
+"Deepfake Image Generation, Social Media Content Generation, Voice Generation",,1
+"Deepfake Video Generation, Voice Generation",,1
+Automatic Copy-Editing,,1
+Voice Generation,,1
+Deepfake Video Generation,"Transformer, Generative Adversarial Network, Convolutional Neural Network",1
+NSFW Content Detection,Image Classification,1
+Technical Text Generation,Transformer,1
+Deepfake Video Generation,,1
+Image Generation,Transformer,1
+Deepfake Video Generation,,1
+Product Naming and Description,Transformer,1
+Chatbot,Transformer,1
+"Voice Generation, Text Style Replication",,1
+Chatbot,,1
+Image Retouching,,1
+Deepfake Video Generation,,1
+Voice Generation,,1
+Gunshot Detection,,1
+Chatbot,Transformer,1
+Autonomous Driving,,1
+Image Generation,"Transformer, Convolutional Neural Network",1
+Team Coordination,Tree-based Learning,1
+Content Search,"Collaborative Filtering, Query Expansion",1
+Underwriting,"Regression, Document Classification",1
+Image Description,Neural Network,1
+Game AI,,1
+Application Evaluation,Distributional Learning,1
+AI Voice Assistant,"Automatic Speech Recognition, Speech Synthesis",1
+Face Recognition,,1
+Content Search,Collaborative Filtering,1
+Image Verification,"Image Classification, Face Detection",1
+Image Scoring,"Image Classification, Convolutional Neural Network",1
+Smart Contract,Conditional Logic,1
+Deepfake Video Generation,,1
+Face Recognition,"Face Detection, Image Retrieval",1
+Application Evaluation,,1
+Application Evaluation,,1
+Recidivism Prediction,,1
+Workforce Administration,,1
+Image Tagging,Neural Network,1
+Face Recognition,"Face Detection, Neural Network",1
+Robotic Manipulation,,1
+Autonomous Driving,Other domain-specific approaches,1
+Robotic Manipulation,,1
+Autonomous Driving,"Convolutional Neural Network, Recurrent Neural Network, Visual Object Detection, Image Segmentation",1
+Navigation Assistant,Geolocation Data,1
+Autonomous Driving,"Image Segmentation, Visual Object Detection, Recurrent Neural Network",1
+Ad Delivery,"Content-based Filtering, Distributional Learning, Keyword Filtering",1
+Content Search,Image Retrieval,1
+Predictive Typing,"Language Modeling, Distributional Learning, Neural Network, Recurrent Neural Network",1
+Product Recommendation,Collaborative Filtering,1
+Sentiment Analysis,"Regression, Distributional Learning, Recurrent Neural Network",1
+Content Search,"Distributional Learning, Neural Network, Vector Search",1
+Recidivism Prediction,,1
+Automatic Skill Assessment,Regression,1
+Chatbot,Distributional Learning,1
+Robotic Manipulation,Other domain-specific approaches,1
+Autonomous Driving,"Visual Object Detection, Image Segmentation",1
+,Geolocation Data,1
+Robotic Manipulation,,1
+Autonomous Drones,,1
+Autonomous Driving,"Visual Object Detection, Image Segmentation",1
+Content Search,"Content-based Filtering, Distributional Learning, Collaborative Filtering",1
+Predictive Policing,,1
+AI Voice Assistant,Language Modeling,1
+Image Generation,,1
+Regulatory Monitoring,,1
+Chatbot,"Recurrent Neural Network, Language Modeling, Distributional Learning",1
+"Chatbot, Technical Text Generation, Translation","Distributional Learning, Language Modeling",1
+Image Retouching,"Convolutional Neural Network, Face Detection",1
+Image Tagging,"Convolutional Neural Network, Visual Object Detection",1
+Data Grouping,"Convolutional Neural Network, Face Detection",1
+"AI Voice Assistant, Autonomous Drones","Language Modeling, Speech Synthesis",1
+Game AI,Reinforcement Learning,1
+Autonomous Driving,"Convolutional Neural Network, Image Segmentation, Visual Object Detection",1
+Robotic Manipulation,,1
+Autonomous Driving,"Visual Object Detection, Image Segmentation, Convolutional Neural Network",1
+Autonomous Driving,"Image Segmentation, Visual Object Detection, Visual Descriptors",1
+Game Content Generation,Geolocation Data,1
+Content Search,"Collaborative Filtering, Distributional Learning, Language Modeling, Keyword Filtering",1
+Face Recognition,"Face Detection, Visual Object Detection, Visual Descriptors",1
+Autonomous Drones,,1
+Regulatory Monitoring,"Optical Character Recognition, Classification",1
+Automatic Skill Assessment,Regression,1
+Autonomous Drones,"Visual Object Detection, Image Segmentation",1
+Autonomous Driving,"Visual Object Detection, Image Segmentation, Convolutional Neural Network",1
+Automatic Skill Assessment,,1
+Automatic Skill Assessment,"Face Detection, Visual Object Detection, Regression",1
+Automatic Skill Assessment,,1
+Ad Delivery,,1
+Underwriting,,1
+Resource Allocation,,1
+Content Recommendation,"Content-based Filtering, Collaborative Filtering",1
+Content Search,Content-based Filtering,1
+Image Verification,"Image Classification, Face Detection, Visual Object Detection, Image Segmentation",1
+Automatic Skill Assessment,Conditional Logic,1
+Fact Checking,Classification,1
+Spam Filtering,Keyword Filtering,1
+Fact Checking,,1
+Image Tagging,Image Classification,1
+Camera Tracking,Visual Object Detection,1
+Medical Diagnosis Support,,1
+Application Evaluation,,1
+Regulatory Monitoring,Classification,1
+AI Voice Assistant,Automatic Speech Recognition,1
+Resource Allocation,,1
+Autonomous Driving,"Image Segmentation, Visual Object Detection, Convolutional Neural Network",1
+Face Recognition,"Face Detection, Visual Object Detection, Image Segmentation",1
+Face Recognition,"Face Detection, Visual Object Detection, Image Segmentation",1
+Face Recognition,"Face Detection, Image Segmentation, Visual Object Detection",1
+Resource Allocation,"Tree-based Learning, Conditional Logic",1
+"Video Tagging, Content Recommendation",,1
+Face Recognition,"Face Detection, Image Segmentation, Convolutional Neural Network",1
+"Gender Identification, Marketing Analytics Generation",Distributional Learning,1
+"Regulatory Monitoring, Workforce Monitoring and Evaluation","Visual Object Detection, Speech Synthesis",1
+Content Recommendation,Collaborative Filtering,1
+Chatbot,Transformer,1
+Workforce Monitoring and Evaluation,,1
+Social Media Content Generation,Transformer,1
+Autonomous Drones,"Visual Object Detection, Image Segmentation",1
+Face Recognition,"Face Detection, Visual Object Detection, Image Segmentation",1
+Medical Diagnosis Support,Classification,1
+Automated Content Curation,"Visual Object Detection, Video Classification",1
+Autonomous Driving,"Visual Object Detection, Image Segmentation",1
+"Content Recommendation, Automated Content Curation","Collaborative Filtering, Content-based Filtering",1
+Robotic Manipulation,,1
+Resource Allocation,,1
+Cheating Detection,Visual Object Detection,1
+Automated Content Curation,Keyword Filtering,1
+Autonomous Drones,"Image Segmentation, Visual Object Detection",1
+Application Evaluation,,1
+Ad Delivery,Keyword Filtering,1
+Cheating Detection,"Face Detection, Pose Estimation",1
+"Regulatory Monitoring, Fact Checking, Content Search","Keyword Filtering, Collaborative Filtering",1
+Cheating Detection,"Face Detection, Visual Object Detection, Image Classification",1
+Ad Delivery,Classification,1
+Hate Speech Detection,,1
+Autonomous Driving,"Visual Object Detection, Image Segmentation, Convolutional Neural Network",1
+Voice Generation,,1
+Accesibility Assurance,,1
+Health AI Assistant,"Classification, Multimodal Learning",1
+"Autonomous Drones, Chatbot","Sentiment Analysis, Speech Synthesis, Automatic Speech Recognition",1
+Autonomous Driving,"Image Segmentation, Visual Object Detection, Convolutional Neural Network",1
+Navigation Assistant,"Geolocation Data, Routing",1
+Product Recommendation,"Collaborative Filtering, Keyword Filtering",1
+Workforce Monitoring and Evaluation,"Visual Object Detection, Pose Estimation, Face Detection",1
+"Cheating Detection, Face Recognition","Face Detection, Visual Object Detection",1
+AI Voice Assistant,"Automatic Speech Recognition, Speech Synthesis, Language Modeling",1
+Ad Delivery,,1
+Cheating Detection,"Automatic Speech Recognition, Audio Classification, Speaker Diarization",1
+"Automated Content Curation, Hate Speech Detection",Document Classification,1
+Content Recommendation,"Collaborative Filtering, Content-based Filtering",1
+Image Upscaling,"Generative Adversarial Network, Convolutional Neural Network",1
+Gender Identification,"Face Detection, Visual Object Detection",1
+Content Recommendation,Collaborative Filtering,1
+"Automated Content Curation, Hate Speech Detection",Document Classification,1
+Ad Delivery,Collaborative Filtering,1
+"Medical Diagnosis Support, Substance Abuse Prediction",Classification,1
+Medical Diagnosis Support,"Classification, Convolutional Neural Network",1
+Image Generation,"Convolutional Neural Network, Transformer, Generative Adversarial Network",1
+Autonomous Driving,"Visual Object Detection, Image Segmentation, Convolutional Neural Network",1
+Autonomous Drones,"Image Segmentation, Visual Object Detection",1
+Writing Assistant,"Language Modeling, Distributional Learning",1
+Autonomous Driving,"Image Segmentation, Visual Object Detection, Convolutional Neural Network, Geolocation Data",1
+Judicial Decision Support,,1
+Autonomous Driving,"Image Segmentation, Visual Object Detection, Convolutional Neural Network, Geolocation Data",1
+Autonomous Driving,"Image Segmentation, Visual Object Detection, Convolutional Neural Network, Geolocation Data",1
+Trustworthiness Scoring,,1
+Face Recognition,"Face Detection, Visual Object Detection",1
+Content Recommendation,"Collaborative Filtering, Content-based Filtering",1
+Predictive Policing,,1
+Autonomous Driving,"Convolutional Neural Network, Image Segmentation, Visual Object Detection",1
+Medical Diagnosis Support,Classification,1
+Regulatory Monitoring,,1
+Content Recommendation,"Collaborative Filtering, Web Scraping",1
+Product Recommendation,Content-based Filtering,1
+Malware Detection,Classification,1
+Automatic Fault Handling,,1
+Predictive Policing,Classification,1
+Identification,Biometrics,1
+Content Recommendation,Collaborative Filtering,1
+Face Recognition,"Convolutional Neural Network, Generative Adversarial Network, Distributional Learning",1
+Voice Generation,,1
+Deepfake Video Generation,"Face Detection, Recurrent Neural Network, Generative Adversarial Network",1
+Deepfake Video Generation,"Convolutional Neural Network, Recurrent Neural Network, Generative Adversarial Network, Spectrogram",1
+Workforce Monitoring and Evaluation,Regression,1
+Workforce Monitoring and Evaluation,,1
+Social Media Content Generation,Transformer,1
+Personalized Pricing,,1
+Autonomous Drones,,1
+Autonomous Driving,"Convolutional Neural Network, Recurrent Neural Network, Image Segmentation, Visual Object Detection",1
+Autonomous Driving,"Convolutional Neural Network, Recurrent Neural Network, Image Segmentation, Visual Object Detection",1
+Social Media Content Generation,,1
+Autonomous Driving,"Visual Object Detection, Image Segmentation, Convolutional Neural Network, Recurrent Neural Network",1
+"Autonomous Driving, Face Recognition","Visual Object Detection, Image Segmentation, Recurrent Neural Network, Convolutional Neural Network, Face Detection",1
+Ad Delivery,"Document Classification, Keyword Filtering",1
+"Face Recognition, Threat Detection","Image Classification, Face Detection, Visual Object Detection, Image Segmentation",1
+Automated Content Curation,Classification,1
+Translation,"Keyword Filtering, Recurrent Neural Network, Distributional Learning",1
+Autonomous Drones,,1
+Autonomous Driving,"Convolutional Neural Network, Image Segmentation, Visual Object Detection, Recurrent Neural Network",1
+Smart Surveillance,"Visual Object Detection, Person Detection",1
+"Ad Delivery, Automated Content Curation",Document Classification,1
+Chatbot,Transformer,1
+Face Recognition,"Convolutional Neural Network, Visual Object Detection, Face Detection",1
+Face Recognition,"Convolutional Neural Network, Face Detection, Visual Object Detection",1
+Medical Diagnosis Support,,1
+Navigation Assistant,"Geolocation Data, Time Series Forecasting, Routing",1
+Navigation Assistant,"Routing, Geolocation Data",1
+Navigation Assistant,"Geolocation Data, Routing",1
+Automated Content Curation,"Visual Object Detection, Classification, Convolutional Neural Network",1
+Autonomous Driving,"Convolutional Neural Network, Image Segmentation, Recurrent Neural Network, Visual Object Detection",1
+Autonomous Driving,"Convolutional Neural Network, Image Segmentation, Recurrent Neural Network, Visual Object Detection",1
+Autonomous Driving,"Convolutional Neural Network, Image Segmentation, Recurrent Neural Network, Visual Object Detection",1
+Automated Content Curation,Image Classification,1
+Navigation Assistant,"Geolocation Data, Routing",1
+"Application Evaluation, Underwriting","Face Detection, Visual Object Detection, Image Classification",1
+Deepfake Image Generation,"Convolutional Neural Network, Generative Adversarial Network",1
+Child Welfare Risk Assessment,Regression,1
+Automatic Skill Assessment,Regression,1
+Robotic Manipulation,,1
+Social Media Content Generation,Distributional Learning,1
+License Plate Recognition,"Optical Character Recognition, Visual Object Detection",1
+License Plate Recognition,"Optical Character Recognition, Visual Object Detection",1
+License Plate Recognition,"Optical Character Recognition, Visual Object Detection",1
+License Plate Recognition,"Optical Character Recognition, Visual Object Detection",1
+"Smart Surveillance, Predictive Policing, Regulatory Monitoring",Geolocation Data,1
+Value Estimation,Regression,1
+Product Recommendation,Collaborative Filtering,1
+"Predictive Policing, Gunshot Detection","Audio Classification, Acoustic Triangulation",1
+"Gunshot Detection, Predictive Policing","Acoustic Triangulation, Audio Classification",1
+"Gunshot Detection, Predictive Policing","Audio Classification, Acoustic Triangulation",1
+Face Recognition,"Face Detection, Visual Object Detection, Image Segmentation",1
+"Regulatory Monitoring, Predictive Policing",Classification,1
+"Autonomous Drones, Predictive Policing",,1
+Content Recommendation,Collaborative Filtering,1
+"Smart Surveillance, Speed Estimation",Visual Object Detection,1
+"Face Recognition, Workforce Monitoring and Evaluation","Face Detection, Visual Object Detection, Image Segmentation",1
+Chatbot,"Transformer, Distributional Learning",1
+Face Recognition,"Face Detection, Visual Object Detection, Image Segmentation",1
+Automated Content Curation,"Convolutional Neural Network, Visual Object Detection, Video Classification",1
+Product Recommendation,Regression,1
+Autonomous Driving,"Convolutional Neural Network, Visual Object Detection, Image Segmentation, Recurrent Neural Network",1
+"Resource Allocation, Scheduling",,1
+Gender Identification,"Face Detection, Image Classification",1
+Recidivism Prediction,Regression,1
+Automated Content Curation,Image Classification,1
+Face Recognition,"Face Detection, Visual Object Detection, Image Segmentation",1
+Voice Generation,,1
+Chatbot,Transformer,1
+Content Recommendation,"Collaborative Filtering, Content-based Filtering",1
+Matchmaking,,1
+Content Recommendation,"Content-based Filtering, Collaborative Filtering",1
+NSFW Content Detection,Image Classification,1
+"Automated Content Curation, Hate Speech Detection",Classification,1
+"NSFW Content Detection, Automated Content Curation",Image Classification,1
+Translation,"Language Modeling, Optical Character Recognition, Visual Object Detection",1
+Content Recommendation,Collaborative Filtering,1
+Face Recognition,"Visual Object Detection, Image Segmentation, Face Detection",1
+Autonomous Drones,"Image Segmentation, Convolutional Neural Network, Visual Object Detection",1
+Substance Detection,"Diverse Data, Classification",1
+Autonomous Driving,"Recurrent Neural Network, Image Segmentation, Visual Object Detection, Convolutional Neural Network",1
+Autonomous Driving,"Visual Object Detection, Image Segmentation, Recurrent Neural Network, Convolutional Neural Network",1
+Autonomous Driving,"Convolutional Neural Network, Image Segmentation, Visual Object Detection, Recurrent Neural Network",1
+Autonomous Driving,"Convolutional Neural Network, Recurrent Neural Network, Image Segmentation, Visual Object Detection",1
+Face Recognition,"Visual Object Detection, Image Segmentation, Face Detection",1
+Content Recommendation,"Collaborative Filtering, Content-based Filtering",1
+Autonomous Driving,"Convolutional Neural Network, Image Segmentation, Visual Object Detection, Recurrent Neural Network",1
+"Decensoring, Deepfake Video Generation","Distributional Learning, Convolutional Neural Network, Recurrent Neural Network",1
+"Content Recommendation, Automated Content Curation","Collaborative Filtering, Content-based Filtering",1

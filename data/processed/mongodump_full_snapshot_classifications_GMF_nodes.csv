@@ -1,0 +1,243 @@
+node
+"Content Recommendation, Content Search, Hate Speech Detection, NSFW Content Detection"
+Hate Speech Detection
+Autonomous Driving
+AI Voice Assistant
+Face Recognition
+Deepfake Video Generation
+"Substance Detection, Smart Devices"
+Chatbot
+Automatic Skill Assessment
+"Gunshot Detection, Audio Localization"
+"Robotic Manipulation, Activity Tracking, Automatic Skill Assessment"
+Financial Processing
+"Market Forecasting, Scheduling"
+Image Tagging
+Question Answering
+Threat Detection
+Automatic Stock Trading
+Autonomous Drones
+Translation
+Image Cropping
+Automated Content Curation
+Copyrighted Content Detection
+Market Forecasting
+Behavioral Modeling
+License Plate Recognition
+Visual Art Generation
+Code Generation
+Robotic Manipulation
+Recidivism Prediction
+Data Grouping
+Social Media Content Generation
+Cashierless Shopping
+Deepfake Image Generation
+Voice Generation
+Text Style Replication
+"Deepfake Image Generation, Social Media Content Generation, Voice Generation"
+"Deepfake Video Generation, Voice Generation"
+Automatic Copy-Editing
+NSFW Content Detection
+Technical Text Generation
+Image Generation
+Product Naming and Description
+"Voice Generation, Text Style Replication"
+Image Retouching
+Gunshot Detection
+Team Coordination
+Content Search
+Underwriting
+Image Description
+Game AI
+Application Evaluation
+Image Verification
+Image Scoring
+Smart Contract
+Workforce Administration
+Navigation Assistant
+Ad Delivery
+Predictive Typing
+Product Recommendation
+Sentiment Analysis
+""
+Predictive Policing
+Regulatory Monitoring
+"Chatbot, Technical Text Generation, Translation"
+"AI Voice Assistant, Autonomous Drones"
+Game Content Generation
+Resource Allocation
+Content Recommendation
+Fact Checking
+Spam Filtering
+Camera Tracking
+Medical Diagnosis Support
+"Video Tagging, Content Recommendation"
+"Gender Identification, Marketing Analytics Generation"
+"Regulatory Monitoring, Workforce Monitoring and Evaluation"
+Workforce Monitoring and Evaluation
+"Content Recommendation, Automated Content Curation"
+Cheating Detection
+"Regulatory Monitoring, Fact Checking, Content Search"
+Accesibility Assurance
+Health AI Assistant
+"Autonomous Drones, Chatbot"
+"Cheating Detection, Face Recognition"
+"Automated Content Curation, Hate Speech Detection"
+Image Upscaling
+Gender Identification
+"Medical Diagnosis Support, Substance Abuse Prediction"
+Writing Assistant
+Judicial Decision Support
+Trustworthiness Scoring
+Malware Detection
+Automatic Fault Handling
+Identification
+Personalized Pricing
+"Autonomous Driving, Face Recognition"
+"Face Recognition, Threat Detection"
+Smart Surveillance
+"Ad Delivery, Automated Content Curation"
+"Application Evaluation, Underwriting"
+Child Welfare Risk Assessment
+"Smart Surveillance, Predictive Policing, Regulatory Monitoring"
+Value Estimation
+"Predictive Policing, Gunshot Detection"
+"Gunshot Detection, Predictive Policing"
+"Regulatory Monitoring, Predictive Policing"
+"Autonomous Drones, Predictive Policing"
+"Smart Surveillance, Speed Estimation"
+"Face Recognition, Workforce Monitoring and Evaluation"
+"Resource Allocation, Scheduling"
+Matchmaking
+"NSFW Content Detection, Automated Content Curation"
+Substance Detection
+"Decensoring, Deepfake Video Generation"
+"Content-based Filtering, Collaborative Filtering"
+Character NGrams
+"Automatic Speech Recognition, Language Modeling, Acoustic Fingerprint"
+"Neural Network, Face Detection, Recurrent Neural Network, Generative Adversarial Network"
+Gesture Recognition
+"Autoencoder, Distributional Learning"
+"Geolocation Data, Face Detection"
+Acoustic Triangulation
+"Classification, Distributional Learning"
+"Face Detection, Convolutional Neural Network, Keyword Filtering"
+"Language Modeling, Distributional Learning"
+"Convolutional Neural Network, Recurrent Neural Network, Distributional Learning"
+Face Detection
+Neural Network
+"Distributional Learning, Language Modeling"
+"Regression, Multimodal Learning, Diverse Data"
+Geolocation Data
+"Visual Object Detection, Optical Character Recognition"
+"Transformer, Distributional Learning"
+Automatic Speech Recognition
+Image Segmentation
+"Transformer, Language Modeling"
+"Transformer, Generative Adversarial Network"
+"Transformer, Language Modeling, Distributional Learning"
+"Transformer, Distributional Learning, Reinforcement Learning"
+Transformer
+Diffusion Model
+Speech Synthesis
+"Visual Object Detection, Pose Estimation"
+"Transformer, Generative Adversarial Network, Convolutional Neural Network"
+Image Classification
+"Transformer, Convolutional Neural Network"
+Tree-based Learning
+"Collaborative Filtering, Query Expansion"
+"Regression, Document Classification"
+Distributional Learning
+"Automatic Speech Recognition, Speech Synthesis"
+Collaborative Filtering
+"Image Classification, Face Detection"
+"Image Classification, Convolutional Neural Network"
+Conditional Logic
+"Face Detection, Image Retrieval"
+"Face Detection, Neural Network"
+Other domain-specific approaches
+"Convolutional Neural Network, Recurrent Neural Network, Visual Object Detection, Image Segmentation"
+"Image Segmentation, Visual Object Detection, Recurrent Neural Network"
+"Content-based Filtering, Distributional Learning, Keyword Filtering"
+Image Retrieval
+"Language Modeling, Distributional Learning, Neural Network, Recurrent Neural Network"
+"Regression, Distributional Learning, Recurrent Neural Network"
+"Distributional Learning, Neural Network, Vector Search"
+Regression
+"Visual Object Detection, Image Segmentation"
+"Content-based Filtering, Distributional Learning, Collaborative Filtering"
+Language Modeling
+"Recurrent Neural Network, Language Modeling, Distributional Learning"
+"Convolutional Neural Network, Face Detection"
+"Convolutional Neural Network, Visual Object Detection"
+"Language Modeling, Speech Synthesis"
+Reinforcement Learning
+"Convolutional Neural Network, Image Segmentation, Visual Object Detection"
+"Visual Object Detection, Image Segmentation, Convolutional Neural Network"
+"Image Segmentation, Visual Object Detection, Visual Descriptors"
+"Collaborative Filtering, Distributional Learning, Language Modeling, Keyword Filtering"
+"Face Detection, Visual Object Detection, Visual Descriptors"
+"Optical Character Recognition, Classification"
+"Face Detection, Visual Object Detection, Regression"
+Content-based Filtering
+"Image Classification, Face Detection, Visual Object Detection, Image Segmentation"
+Classification
+Keyword Filtering
+Visual Object Detection
+"Image Segmentation, Visual Object Detection, Convolutional Neural Network"
+"Face Detection, Visual Object Detection, Image Segmentation"
+"Face Detection, Image Segmentation, Visual Object Detection"
+"Tree-based Learning, Conditional Logic"
+"Face Detection, Image Segmentation, Convolutional Neural Network"
+"Visual Object Detection, Speech Synthesis"
+"Visual Object Detection, Video Classification"
+"Collaborative Filtering, Content-based Filtering"
+"Image Segmentation, Visual Object Detection"
+"Face Detection, Pose Estimation"
+"Keyword Filtering, Collaborative Filtering"
+"Face Detection, Visual Object Detection, Image Classification"
+"Classification, Multimodal Learning"
+"Sentiment Analysis, Speech Synthesis, Automatic Speech Recognition"
+"Geolocation Data, Routing"
+"Collaborative Filtering, Keyword Filtering"
+"Visual Object Detection, Pose Estimation, Face Detection"
+"Face Detection, Visual Object Detection"
+"Automatic Speech Recognition, Speech Synthesis, Language Modeling"
+"Automatic Speech Recognition, Audio Classification, Speaker Diarization"
+Document Classification
+"Generative Adversarial Network, Convolutional Neural Network"
+"Classification, Convolutional Neural Network"
+"Convolutional Neural Network, Transformer, Generative Adversarial Network"
+"Image Segmentation, Visual Object Detection, Convolutional Neural Network, Geolocation Data"
+"Collaborative Filtering, Web Scraping"
+Biometrics
+"Convolutional Neural Network, Generative Adversarial Network, Distributional Learning"
+"Face Detection, Recurrent Neural Network, Generative Adversarial Network"
+"Convolutional Neural Network, Recurrent Neural Network, Generative Adversarial Network, Spectrogram"
+"Convolutional Neural Network, Recurrent Neural Network, Image Segmentation, Visual Object Detection"
+"Visual Object Detection, Image Segmentation, Convolutional Neural Network, Recurrent Neural Network"
+"Visual Object Detection, Image Segmentation, Recurrent Neural Network, Convolutional Neural Network, Face Detection"
+"Document Classification, Keyword Filtering"
+"Keyword Filtering, Recurrent Neural Network, Distributional Learning"
+"Convolutional Neural Network, Image Segmentation, Visual Object Detection, Recurrent Neural Network"
+"Visual Object Detection, Person Detection"
+"Convolutional Neural Network, Visual Object Detection, Face Detection"
+"Convolutional Neural Network, Face Detection, Visual Object Detection"
+"Geolocation Data, Time Series Forecasting, Routing"
+"Routing, Geolocation Data"
+"Visual Object Detection, Classification, Convolutional Neural Network"
+"Convolutional Neural Network, Image Segmentation, Recurrent Neural Network, Visual Object Detection"
+"Convolutional Neural Network, Generative Adversarial Network"
+"Optical Character Recognition, Visual Object Detection"
+"Audio Classification, Acoustic Triangulation"
+"Acoustic Triangulation, Audio Classification"
+"Convolutional Neural Network, Visual Object Detection, Video Classification"
+"Convolutional Neural Network, Visual Object Detection, Image Segmentation, Recurrent Neural Network"
+"Face Detection, Image Classification"
+"Language Modeling, Optical Character Recognition, Visual Object Detection"
+"Visual Object Detection, Image Segmentation, Face Detection"
+"Image Segmentation, Convolutional Neural Network, Visual Object Detection"
+"Diverse Data, Classification"
+"Recurrent Neural Network, Image Segmentation, Visual Object Detection, Convolutional Neural Network"
+"Visual Object Detection, Image Segmentation, Recurrent Neural Network, Convolutional Neural Network"
+"Distributional Learning, Convolutional Neural Network, Recurrent Neural Network"
