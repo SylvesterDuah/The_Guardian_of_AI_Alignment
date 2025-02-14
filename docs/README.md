@@ -98,5 +98,5 @@ Prerequisites
 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/autonomous-ai-police-force.git
-   cd De_Alignment
+   git clone https://github.com/your-username/The_Guardian_of_AI_Alignment.git
+   cd The_Guardian_of_AI_Alignment
