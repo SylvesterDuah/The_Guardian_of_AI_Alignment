@@ -1,0 +1,70 @@
+Metadata-Version: 2.4
+Name: phenolrs
+Version: 0.5.9
+Classifier: Programming Language :: Rust
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Typing :: Typed
+Requires-Dist: numpy ~=1.26
+Requires-Dist: python-arango
+Requires-Dist: pytest ; extra == 'tests'
+Requires-Dist: arango-datasets ; extra == 'tests'
+Requires-Dist: adbnx-adapter ; extra == 'tests'
+Requires-Dist: torch ; extra == 'torch'
+Requires-Dist: torch-geometric ; extra == 'torch'
+Requires-Dist: version ; extra == 'dynamic'
+Provides-Extra: tests
+Provides-Extra: torch
+Provides-Extra: dynamic
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown; charset=UTF-8; variant=GFM
+
+# Phenolrs
+
+## Running/building
+
+### Required:
+- `python`
+- `pytest`
+- `rust/cargo`
+
+### Build
+Build using the `maturin` python package - can install using `pip install maturin`.
+
+Dev build
+`maturin develop`
+
+Release build
+`maturin develop -r`
+
+### Tests
+
+#### Rust
+`cargo test --no-default-features`
+
+#### Python
+** WIP - assumes dataset loaded in local ArangoDB instance. **
+
+##### Requirements
+`pip install pytest arango-datasets`
+
+##### Python db setup
+```python
+import arango
+from arango_datasets import Datasets
+
+client = arango.ArangoClient("http://localhost:8529")
+sys = client.db("_system", password="test")
+sys.create_database("abide")
+
+abide_db = client.db("abide", password="test")
+dsets = Datasets(abide_db)
+dsets.load("ABIDE")
+```
+
+##### Run python tests:
+`maturin develop && pytest`
+

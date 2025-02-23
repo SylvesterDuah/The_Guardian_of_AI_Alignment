@@ -1,0 +1,11 @@
+[networkx.backend_info]
+arangodb = _nx_arangodb:get_info
+
+[networkx.backends]
+arangodb = nx_arangodb.interface:backend_interface
+
+[networkx.plugin_info]
+arangodb = _nx_arangodb:get_info
+
+[networkx.plugins]
+arangodb = nx_arangodb.interface:backend_interface
