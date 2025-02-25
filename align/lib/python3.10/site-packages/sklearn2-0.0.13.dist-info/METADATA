@@ -1,0 +1,62 @@
+Metadata-Version: 2.1
+Name: sklearn2
+Version: 0.0.13
+Summary: small scikit-learn extension
+Home-page: https://github.com/vanoudh/sklearn2
+Author: Marc van Oudheusden
+Author-email: marc.vanoudheusden@gmail.com
+License: MIT
+Description-Content-Type: UNKNOWN
+Keywords: data science
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Requires-Dist: pandas (>=0.17.1)
+Requires-Dist: scikit-learn (>=0.18)
+Requires-Dist: matplotlib (>=1.5.1)
+Requires-Dist: statsmodels
+Requires-Dist: patsy
+Requires-Dist: pydot
+Requires-Dist: pytest
+Requires-Dist: category-encoders
+
+# sklearn2
+
+Sklearn2 is a small extension of scikit-learn. 
+It is inspired by scikit-learn in order to be mergeable with it eventually.
+
+It is in development phase : it will change radically, often and without notice.
+
+## Requirements
+
+	See requirements_conda.txt and requirements_pip.txt
+
+## Installation with conda
+
+	$git clone https://github.com/vanoudh/sklearn2.git
+	$cd sklearn2
+	$conda install --file requirements_conda.txt
+    $pip install .
+
+## Installation with pip
+
+	$git clone https://github.com/vanoudh/sklearn2.git
+	$cd sklearn2
+    $pip install .
+
+## Test
+
+	$pytest -v
+
+## Usage
+
+TODO
+
+
