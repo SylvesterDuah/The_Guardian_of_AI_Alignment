@@ -34,7 +34,7 @@ As AI systems become more pervasive, ensuring they operate safely and ethically 
 
 🎥 Watch the Demo
 
-!!SOON FROM THE YOUTUBE CHANNEL!!
+[!FROM THE YOUTUBE CHANNEL!!](https://youtu.be/0iK2Xw0zHhg)
 
 ---
 
