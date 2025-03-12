@@ -132,11 +132,11 @@ As AI systems become more pervasive, ensuring they operate safely and ethically 
 - **Remote ArangoDB Instance:**  
   Set up and accessible from your application.
 - **Twitter API Access:**  
-  A valid Bearer Token (set as `TWITTER_BEARER_TOKEN` in your environment).
-- **NVIDIA GPU:**  
-  For cuGraph acceleration (optional for local testing).
+  A valid Bearer Token (set as `TWITTER_BEARER_TOKEN` in your environment)
+- **NVIDIA GPU:** (Option)
+  For cuGraph acceleration (optional for local testing)
 - **Environment Variables:**  
-  Set up via a `.env` file using `python-dotenv`.
+  Set up via a `.env` file using `python-dotenv`
 
 Installation
 1. Clone the repository:
