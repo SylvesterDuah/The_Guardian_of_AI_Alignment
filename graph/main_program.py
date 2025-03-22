@@ -215,6 +215,7 @@ def setup_arangodb_connection(db_name="graph_db", graph_name="ai_incidents_graph
         logger.error("Unexpected error: %s", str(e))
         raise
 
+# create the aranodb wrapper
 def create_arangograph_wrapper(db):
     """
     Create the ArangoGraph LangChain wrapper.
