@@ -204,6 +204,7 @@ def setup_arangodb_connection(db_name="graph_db", graph_name="ai_incidents_graph
             edges_collection = graph.edge_collection(edges_collection_name)
             logger.info("Using existing edge collection: %s", edges_collection_name)
 
+        # return the database, graph, and collections
         return db, graph, nodes_collection, edges_collection
 
     except ArangoClientError as e:
