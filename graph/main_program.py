@@ -1358,6 +1358,8 @@ print(enhanced_monitoring())
 plot_alerts()
 
 # %%
+
+# monitor the system
 def global_monitoring_system():
     """
     Iterate over all registered projects and compile a global radar report,
