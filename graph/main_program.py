@@ -145,6 +145,7 @@ if __name__ == "__main__":
     main()
 
 # %%
+# calling the arangograph
 from langchain_community.graphs import ArangoGraph
 from arango import ArangoClient
 from arango.exceptions import ArangoClientError, ArangoServerError
