@@ -247,7 +247,7 @@ def main():
         num_nodes = arango_graph.query("RETURN LENGTH(nodes)")
         num_edges = arango_graph.query("RETURN LENGTH(edges)")
         
-        # Print the collections
+        # Print the collection of nodes and edges
         print("Number of nodes:", num_nodes[0] if num_nodes else "Unknown")
         print("Number of edges:", num_edges[0] if num_edges else "Unknown")
 
