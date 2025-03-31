@@ -325,7 +325,7 @@ processed_data_folder = "/Users/sylvesterduah/Documents/Code/De_Alignment/data/p
 # Load the graph from processed data
 G = load_graph_from_processed_data(processed_data_folder)
 
-# Print basic graph information
+# Print basic graph information to view
 print("Graph Info:")
 print(f"Number of nodes: {G.number_of_nodes()}")
 print(f"Number of edges: {G.number_of_edges()}")
