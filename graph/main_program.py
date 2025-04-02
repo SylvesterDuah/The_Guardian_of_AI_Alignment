@@ -155,7 +155,7 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# set up the connection for the arangodb
+
 def setup_arangodb_connection(db_name="graph_db", graph_name="ai_incidents_graph"):
     """
     Set up the ArangoDB connection and create the graph and collections if they don't exist.
@@ -232,7 +232,6 @@ def create_arangograph_wrapper(db):
         logger.error("Failed to create ArangoGraph wrapper: %s", str(e))
         raise
 
-# main program
 def main():
     try:
         # Step 1: Set up ArangoDB connection
@@ -247,7 +246,8 @@ def main():
         # Query the number of nodes and edges
         num_nodes = arango_graph.query("RETURN LENGTH(nodes)")
         num_edges = arango_graph.query("RETURN LENGTH(edges)")
-
+        
+        # Print the collection of nodes and edges
         print("Number of nodes:", num_nodes[0] if num_nodes else "Unknown")
         print("Number of edges:", num_edges[0] if num_edges else "Unknown")
 
@@ -325,7 +325,7 @@ processed_data_folder = "/Users/sylvesterduah/Documents/Code/De_Alignment/data/p
 # Load the graph from processed data
 G = load_graph_from_processed_data(processed_data_folder)
 
-# Print basic graph information
+# Print basic graph information to view
 print("Graph Info:")
 print(f"Number of nodes: {G.number_of_nodes()}")
 print(f"Number of edges: {G.number_of_edges()}")
