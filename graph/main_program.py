@@ -155,6 +155,8 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+
+# arango connection
 def setup_arangodb_connection(db_name="graph_db", graph_name="ai_incidents_graph"):
     """
     Set up the ArangoDB connection and create the graph and collections if they don't exist.
