@@ -232,6 +232,7 @@ def create_arangograph_wrapper(db):
         logger.error("Failed to create ArangoGraph wrapper: %s", str(e))
         raise
 
+# main program
 def main():
     try:
         # Step 1: Set up ArangoDB connection
