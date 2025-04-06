@@ -260,6 +260,7 @@ if __name__ == "__main__":
     main()
 
 # %%
+# load the graph
 def load_graph_from_processed_data(processed_data_folder):
     """
     Load processed data (nodes and edges) into a NetworkX graph.
