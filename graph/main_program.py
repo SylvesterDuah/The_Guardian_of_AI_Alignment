@@ -1395,6 +1395,7 @@ def global_monitoring_system():
     else:
         return "Global Radar Report: No significant misalignment issues detected across all projects."
 
+# print to monitor
 print(global_monitoring_system())
 
 # %%
